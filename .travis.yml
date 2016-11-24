@@ -1,0 +1,3 @@
+script:
+  - openssl version
+  - openssl ciphers -v TLSv1.2
